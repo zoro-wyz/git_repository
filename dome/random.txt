@@ -5,3 +5,5 @@
 
 上传 $ git remote add origin git@github.com:michaelliao/learngit.git
 $ git push origin master
+
+Idea 整合GitHub测试
